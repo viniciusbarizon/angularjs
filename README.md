@@ -1,4 +1,4 @@
 angularjs
 =========
 
-AngularJS testes
+Sample code: Book AngularJS Up and Running.
